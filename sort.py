@@ -2,7 +2,7 @@ import time
 import random
 import matplotlib.pyplot as plt
 
-# Given data
+# The data
 data = [
     {'First Name': 'Raj', 'Last Name': 'Nayyar'},
     {'First Name': 'Suraj', 'Last Name': 'Sharma'},
